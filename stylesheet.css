@@ -1,0 +1,52 @@
+.container{
+width: 1920px;
+height: 5080px;
+background-color: black;
+}
+.whiteSpace{
+    position: absolute;
+    height: 5000px;
+    width: 1920px;
+    background-color: white;
+    border-radius: 200px;
+    top:  500px;
+    z-index: 1;
+}
+.greyspace{
+    position: absolute;
+    width: 1520px;
+    height: 800px;
+    background-color: grey;
+    border-radius: 100px;
+    top: 450px;
+    left: 200px;
+    
+}
+.logo{
+    position: absolute;
+    left: 600px;
+    top:300px;
+}
+.article{
+    position: absolute;
+    text-align: center;
+    top: 1100px;
+    vertical-align: middle;
+}
+p{
+    position: relative;
+    color: black;
+    text-align: center;
+    text-indent: 70%;
+    font-style: normal;
+font-size: 25px;
+line-height:50px;
+vertical-align: middle;
+font-family: monse;
+}
+.card{
+    padding: 858px 720px;
+background-color: white;
+text-align: center;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
